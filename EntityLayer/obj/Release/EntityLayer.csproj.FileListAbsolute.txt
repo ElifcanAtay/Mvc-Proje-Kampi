@@ -1,0 +1,12 @@
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\elifc\source\repos\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\elifc\source\repos\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\elifc\source\repos\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\elifc\source\repos\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\elifc\source\repos\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\elifc\source\repos\EntityLayer\obj\Release\EntityLayer.pdb
